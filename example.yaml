@@ -1,5 +1,6 @@
 crud: &crud
-  path: ./test.js
+  paths:
+    - ./test.js
   # See: https://mochajs.org/#reporters for a list of built-in reporters
   reporter: list
 
