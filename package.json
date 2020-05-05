@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "mocha": "^7.1.2",
+    "supertest": "^4.0.2"
+  }
+}
